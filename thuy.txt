@@ -1,0 +1,14 @@
+Danh sách các khóa học:
+
+Title: PHP Cơ bản
+Description: Khóa học lập trình PHP từ cơ bản đến nâng cao.
+
+Title: Thiết kế Web
+Description: Khóa học thiết kế web chuyên nghiệp.
+
+Title: Web với JS
+Description: Tìm hiểu cách xây dựng website tương tác với JavaScript.
+
+Title: Phân tích Python
+Description: Khóa học phân tích dữ liệu sử dụng Python và các thư viện như Pandas, NumPy.
+
